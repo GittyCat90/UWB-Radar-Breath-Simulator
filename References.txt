@@ -1,0 +1,6 @@
+
+[1] C. Eren, S. Karamzadeh, M.Kartal, “Radar human breathing dataset for applications of ambient assisted living and search and rescue operations”, Data in Brief, Volume 51, 2023,109757, https://doi.org/10.1016/j.dib.2023.109757.
+[2] S. Nahar, T. Phan, F. Quiyum, L. Ren, A. E. Fathy and O. Kilic, "An Electromagnetic Model of Human Vital Signs Detection and Its Experimental Validation," IEEE Journal on Emerging and Selected Topics in Circuits and Systems, vol. 8, no. 2, pp. 338-349, 2018. 
+[3] C. Gabriel, "Compilation of the Dielectric Properties of Body Tissues at RF and Microwave Frequencies," Air Force Material Command Brooks Air Force Base Texas, London, UK, 1996.
+[4] E. Taoufik, S. Nabila and B. Ridha, "The Reflection of Electromagnetic Field By Body Tissue in the UWB Frequency Range," in 2010 IEEE Radar Conference, Arlington, VA, USA, 2010. 
+[5] M. G. Hussain, "Principles of high-resolution radar based on nonsinusoidal waves. I. Signal representation and pulse compression," IEEE Transactions on Electromagnetic Compatibility, vol. 31, no. 4, pp. 359-368, 1989. 
